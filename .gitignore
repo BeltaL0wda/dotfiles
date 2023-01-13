@@ -1,0 +1,43 @@
+# Ignore everything in .gitignore folder
+*
+
+# But not this files ...
+!.gitignore
+!README.md
+!.Xmodmap
+!.bash_profile
+!.bashrc
+!.xinitrc
+!.zshrc
+
+# And not this folders
+!.config
+.config/*
+
+!.config/alacritty
+!.config/alacritty/*
+
+!.config/htop
+!.config/htop/*
+
+!.config/picom
+!.config/picom/*
+
+!.config/etc
+!.config/etc/**
+!.config/etc/*
+
+!.config/i3
+!.config/i3/*
+
+!.config/Thunar
+!.config/Thunar/*
+
+!.config/neofetch
+!.config/neofetch/*
+
+!.config/gtk-3.0
+!.config/gtk-3.0/*
+
+!.config/xfce4
+!.config/xfce4/**
