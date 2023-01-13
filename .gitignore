@@ -25,7 +25,6 @@
 
 !.config/etc
 !.config/etc/**
-!.config/etc/*
 
 !.config/i3
 !.config/i3/*
