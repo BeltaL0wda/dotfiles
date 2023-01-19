@@ -9,6 +9,7 @@
 !.bashrc
 !.xinitrc
 !.zshrc
+!.pkglist.txt
 
 # And not this folders
 !.config
