@@ -13,6 +13,7 @@
 
 # And not this folders
 !.config
+!.config/dotfile.png
 .config/*
 
 !.config/alacritty
