@@ -10,10 +10,10 @@
 !.xinitrc
 !.zshrc
 !.pkglist.txt
+!.dotfile.png
 
 # And not this folders
 !.config
-!.config/dotfile.png
 .config/*
 
 !.config/alacritty
