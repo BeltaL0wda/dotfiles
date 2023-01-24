@@ -1,3 +1,5 @@
+![archlinux](https://github.com/BeltaL0wda/dotfiles/blob/main/.dotfile.png)
+
 ## Git / Github
 
 List tracked files
