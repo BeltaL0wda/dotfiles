@@ -129,8 +129,12 @@ set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
-set $ws9 "9"
+set $ws10 "9"
 set $ws10 "10"
+
+set $monitor HDMI2
+
+workspace $ws4 output $monitor
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1

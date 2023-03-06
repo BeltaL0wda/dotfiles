@@ -44,5 +44,14 @@ xbindkeys
 # add fonts to Xorg font path. Check $ xlsfonts command
 xset +fp /home/captain/.local/share/fonts
 
+# Set external monitor
+
+intern=eDP1
+extern=HDMI2
+
+if xrandr | grep "$extern connected"; then
+    xrandr --output "$extern" --auto --right-of "$intern"
+fi
+
 # WM
 exec i3
