@@ -201,7 +201,7 @@ bar {
         font pango:Terminus 8
 }
 
-gaps inner 5
+gaps inner 6
 smart_gaps on
 smart_borders on
 default_border none

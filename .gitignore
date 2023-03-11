@@ -42,3 +42,6 @@
 
 !.config/xfce4
 !.config/xfce4/**
+
+!.config/nvim
+!.config/nvim/*
