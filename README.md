@@ -157,3 +157,9 @@ Matching all occurence between 2 line
 
 !<command> : execute command and output below
 
+## Screen
+Take screen capture of root window
+> xwd -root -out [filename.xwd]
+
+Convert xwd file to png file
+> gm convert [file.xwd] [file.png]
